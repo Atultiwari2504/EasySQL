@@ -27,7 +27,7 @@ The goal of this library is to simplify MySQL database operations for beginners 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/easysql.git
+git clone https://github.com/Atultiwari2504/easysql.git
 cd easysql
 ```
 
