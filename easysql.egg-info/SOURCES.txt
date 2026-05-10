@@ -1,0 +1,12 @@
+pyproject.toml
+setup.py
+easysql/__init__.py
+easysql/database.py
+easysql/exceptions.py
+easysql/validators.py
+easysql.egg-info/PKG-INFO
+easysql.egg-info/SOURCES.txt
+easysql.egg-info/dependency_links.txt
+easysql.egg-info/requires.txt
+easysql.egg-info/top_level.txt
+tests/test_database.py
